@@ -179,12 +179,30 @@ Install package control:
 
 ## Docker
 
-## Atom
+## Postman
 
-## Github Desktop
+## Install Atom
+
+## Install Github Desktop
+
+## Install CQLSH
+
+## Install VirtualBox
+
+## Install Visual Studio Code
+
+## Install Google Chrome
+
+## Intall Flux
+
+## Install VLC
+
+## Install Stream Deck App (if using as Hotkey pad)
+
 
 # More Information
-* (Github gitingore Files)[https://github.com/github/gitignore]
+* [Github gitingore Files](https://github.com/github/gitignore)
+* http://sourabhbajaj.com/mac-setup/
 
 
 
